@@ -19,8 +19,6 @@
 
 <!-- <image src="http://github-readme-streak-stats.herokuapp.com?user=markshawn2020&theme=synthwave" alt="MarkShawn's GitHub Streak, source: https://git.io/streak-stats" style="width: 100%;"> -->
 
-[![MarkShawn's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=markshawn2020&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## Selected Projects
 
 - blog relative: https://github.com/m-archive-blog
@@ -32,6 +30,8 @@
 - competitions relative: https://github.com/m-archive-competitions
 
 ## History
+
+[![MarkShawn's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=markshawn2020&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 2022-11-12
 
