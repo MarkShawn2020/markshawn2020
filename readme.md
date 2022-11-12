@@ -3,7 +3,7 @@
 
 ## Intro
 
-:sunny: Hi, I am **Markshawn(南川)**, currently bases on **Beijing, China**.
+:sunny: Hi, I am **Markshawn(南川), A FullStack Programmer** (seeking for a *Challenging & Competitive* work opportunity), currently bases on **Beijing, China**.
 
 - WeChat: **MarkShawn2020**
 - GitHub: https://github.com/markshawn2020
