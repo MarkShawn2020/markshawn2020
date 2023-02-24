@@ -21,17 +21,13 @@
 
 ## Selected Projects
 
-- blog relative: https://github.com/m-archive-blog
+- blog relative: https://github.com/markshawn2020/my-docusaurus
 - wechat relative: https://github.com/m-archive-wechat
 - images relative: https://github.com/m-archive-images
 - data crawl relative: https://github.com/m-archive-spiders
 - plugins relative: https://github.com/m-archive-plugins
 - private commercial projects relative: https://github.com/m-archive-commercial
 - competitions relative: https://github.com/m-archive-competitions
-
-## History
-
-[![MarkShawn's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=markshawn2020&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 2022-11-12
 
