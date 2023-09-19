@@ -21,9 +21,6 @@
 
 - blog relative: https://github.com/markshawn2020/my-docusaurus
 - wechat relative: https://github.com/m-archive-wechat
-- images relative: https://github.com/m-archive-images
-- data crawl relative: https://github.com/m-archive-spiders
+- scrape relative: https://github.com/m-archive-spiders
 - plugins relative: https://github.com/m-archive-plugins
-- private commercial projects relative: https://github.com/m-archive-commercial
-- competitions relative: https://github.com/m-archive-competitions
 
