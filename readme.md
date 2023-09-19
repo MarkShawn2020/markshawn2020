@@ -3,12 +3,12 @@
 
 ## Intro
 
-:sunny: Hi, I am **Markshawn(南川), A FullStack Programmer** (seeking for a *Challenging & Competitive* work opportunity), currently bases on **Beijing, China**.
+:sunny: Hi, I am **Markshawn(南川), A FullStack Programmer** based on China.
 
-- WeChat: **MarkShawn2020**
 - GitHub: https://github.com/markshawn2020
 - Blog: https://markshawn.com
 - Email: mark@cs-magic.com
+- WeChat: MarkShawn2020
 
 <!-- 最好看的theme是 &theme=synthwave, 可惜下面的activity-graph不支持，为了统一，就使用 tokyonight 了 -->
 <!-- <image src="https://github-readme-stats.vercel.app/api?username=markshawn2020&count_private=true&show_icons=true&theme=tokyonight" alt="MarkShawn's GitHub stats, source: https://github.com/anuraghazra/github-readme-stats" style="width: 100%; height: 220px;"> -->
