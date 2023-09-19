@@ -21,7 +21,7 @@
 
 ## Selected Projects
 
-- blog relative: https://github.com/m-archive-blog
+- blog relative: https://github.com/markshawn2020/my-docusaurus
 - wechat relative: https://github.com/m-archive-wechat
 - images relative: https://github.com/m-archive-images
 - data crawl relative: https://github.com/m-archive-spiders
