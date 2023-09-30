@@ -3,7 +3,7 @@
 
 ## Intro
 
-:sunny: Hi, I am **Markshawn(南川), A FullStack Programmer** based on China.
+:sunny: Hi, I am **Markshawn(南川), A FullStack Programmer** from China.
 
 - GitHub: https://github.com/markshawn2020
 - Blog: https://markshawn.com
