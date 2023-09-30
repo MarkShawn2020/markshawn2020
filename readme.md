@@ -16,11 +16,3 @@
 [![MarkShawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=markshawn2020&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <image src="http://github-readme-streak-stats.herokuapp.com?user=markshawn2020&theme=synthwave" alt="MarkShawn's GitHub Streak, source: https://git.io/streak-stats" style="width: 100%;"> -->
-
-## Selected Projects
-
-- blog relative: https://github.com/markshawn2020/my-docusaurus
-- wechat relative: https://github.com/m-archive-wechat
-- scrape relative: https://github.com/m-archive-spiders
-- plugins relative: https://github.com/m-archive-plugins
-- ...
