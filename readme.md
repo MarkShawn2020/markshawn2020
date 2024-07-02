@@ -1,10 +1,16 @@
+## Hi, I'm Mark ✨
 
-# Keeeps Thinking, Keeeps Coding
+🚀 Help me to become a full-time open-source developer by [sponsoring me on Github](https://github.com/sponsors/markshawn2020)
 
-## :sunny: Hi, I am ✨ **Mark Shawn** ✨, A FullStack Programmer.
-
-[GitHub](https://github.com/markshawn2020) . [Blog](https://markshawn.com) . [Email](mark@cs-magic.com) . [WeChat](MarkShawn2020)  
-
+<p align="center">
+  <samp>
+    <a href="https://markshawn.com">Blog</a> .
+    <a href="https://github.com/markshawn2020">Github</a> .
+    <a href="https://x.com/mark__2099">X</a> .
+    <a href="https://github.com/sponsors/markshawn2020">Sponsor</a> .
+    <a href="mail:mark@cs-magic.com">Mail</a>
+  </samp>
+</p>
 
 
 <!-- 最好看的theme是 &theme=synthwave, 可惜下面的activity-graph不支持，为了统一，就使用 tokyonight 了 -->
