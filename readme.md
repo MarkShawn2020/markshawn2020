@@ -1,9 +1,7 @@
 
 # Keeeps Thinking, Keeeps Coding
 
-## Intro
-
-:sunny: Hi, I am **Mark Shawn**, A FullStack Programmer.
+## :sunny: Hi, I am ✨ **Mark Shawn** ✨, A FullStack Programmer.
 
 [GitHub](https://github.com/markshawn2020) . [Blog](https://markshawn.com) . [Email](mark@cs-magic.com) . [WeChat](MarkShawn2020)  
 
