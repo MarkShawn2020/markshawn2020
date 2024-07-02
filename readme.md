@@ -1,4 +1,4 @@
-## Hi, I'm Mark ✨
+## Hi, I'm Mark, A Full-Stack Programmer ✨
 
 🚀 Help me to become a full-time open-source developer by [sponsoring me on Github](https://github.com/sponsors/markshawn2020)
 
