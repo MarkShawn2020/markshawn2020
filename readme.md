@@ -8,7 +8,7 @@
     <a href="https://github.com/markshawn2020">Github</a> .
     <a href="https://x.com/mark__2099">X</a> .
     <a href="https://github.com/sponsors/markshawn2020">Sponsor</a> .
-    <a href="mail:mark@cs-magic.com">Mail</a>
+    <a href="mailto:mark@cs-magic.com">Mail</a>
   </samp>
 </p>
 
