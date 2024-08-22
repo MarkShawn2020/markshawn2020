@@ -7,7 +7,6 @@
 <div>Currently focusing on building <a href="https://cs-magic.cn">CS Magic</a></div>
 
   <div>
-    <a href="https://cs-magic.cn">Products</a> .
     <a href="https://markshawn.com">Blog</a> .
     <a href="https://github.com/markshawn2020">Github</a> .
     <a href="https://x.com/mark__2099">X</a> .
