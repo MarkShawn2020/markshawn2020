@@ -1,7 +1,7 @@
 # Hi, I'm Mark, A Full-Stack Programmer ✨
 
-<div align="center">
-  <samp style="display: block; margin-bottom: 20px;">
+<div align="center" style="display: flex; flex-direction: column; gap: 20px;">
+  <samp>
     <a href="https://markshawn.com">Blog</a> .
     <a href="https://github.com/markshawn2020">Github</a> .
     <a href="https://x.com/mark__2099">X</a> .
@@ -10,13 +10,9 @@
     <a href="mailto:mark@cs-magic.com">Mail</a>
   </samp>
 
-<!--
-[![MarkShawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=markshawn2020&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
--->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=markshawn2020&theme=synthwave" alt="MarkShawn's GitHub stats" />
-  </a>
+[![MarkShawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=markshawn2020&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
+
 
 </div>
 
