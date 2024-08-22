@@ -1,6 +1,6 @@
 # Hi, I'm Mark, A Full-Stack Programmer ✨
 
-<div align="center" style="display: flex; flex-direction: column; gap: 40px;">
+<div align="center" style="display: flex; flex-direction: column; gap: 80px;">
   <div>
     <a href="https://markshawn.com">Blog</a> .
     <a href="https://github.com/markshawn2020">Github</a> .
