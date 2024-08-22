@@ -1,4 +1,4 @@
-# Hi, I'm Mark, An Indie Hacker ✨
+# Hi, I'm Mark, An Indie Hacker Crazy about Anything Cool 🚀 🚀 🚀
 
 <div align="center" style="display: flex; flex-direction: column; gap: 80px;">
 
