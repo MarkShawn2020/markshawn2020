@@ -28,7 +28,3 @@
 [![MarkShawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=markshawn2020&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <image src="http://github-readme-streak-stats.herokuapp.com?user=markshawn2020&theme=synthwave" alt="MarkShawn's GitHub Streak, source: https://git.io/streak-stats" style="width: 100%;"> -->
-
----
-
-🚀 Help me to become a full-time open-source developer by [sponsoring me on Github](https://github.com/sponsors/markshawn2020)
