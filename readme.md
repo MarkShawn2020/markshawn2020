@@ -35,8 +35,8 @@
 
 ## Culture
 
-- Life Philosophy: 🌈🕰️🕺💃🚀✨ You Only Live Once (YOLO).
-- Mision: To build products that are 🛠️ Useful, 👀 Interesting, 💖 Loving, 🏆 Profitable.
+- Life Philosophy: 🕰️ You Only Live Once (YOLO).
+- Mision: To build products that are 🚀 Useful, 🌈 Interesting, 💖 Loving, 🏆 Profitable.
 - Vission: 🪄 Every Human Being is A Magician.
 - Values: 💡 Creativity, 📚 Truth-seeking, 🔮 Transparency.
 
