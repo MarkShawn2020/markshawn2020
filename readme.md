@@ -1,4 +1,4 @@
-# Hi, I'm Mark, A Full-Stack Programmer ✨
+# Hi, I'm Mark, An Indie Hacker ✨
 
 <div align="center" style="display: flex; flex-direction: column; gap: 80px;">
 
