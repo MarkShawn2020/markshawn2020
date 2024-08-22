@@ -18,10 +18,10 @@
 
 ## Culture
 
-- Life Philosophy: You Only Live Once (YOLO).
-- Mision: To build products that are Useful, Interesting, Loving, Profitable.
-- Vission: Every Human Being is A Magician.
-- Values: Creativity, Truth-seeking, Transparency.
+- Life Philosophy: 🌈🕰️🕺💃🚀✨ You Only Live Once (YOLO).
+- Mision: To build products that are 🛠️ Useful, 👀 Interesting, 💖 Loving, 🏆 Profitable.
+- Vission: 🪄 Every Human Being is A Magician.
+- Values: 💡 Creativity, 📚 Truth-seeking, 🔮 Transparency.
 
 
   <!-- 最好看的theme是 &theme=synthwave, 可惜下面的activity-graph不支持，为了统一，就使用 tokyonight 了 -->
