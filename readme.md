@@ -17,9 +17,6 @@
 <!--     <a href="https://okjk.co/ONe01V">JK (mobile)</a> . -->
     <a href="mailto:mark@cs-magic.com">Mail</a>
   </div>
-
-  <div>...</div>
-
 </div>
 
 ## Stat
