@@ -2,7 +2,7 @@
 
 <div align="center" style="display: flex; flex-direction: column; gap: 80px;">
 
-<div>An Indie Hacker Passionate About Building Cool Things 🚀 🚀 🚀</div>
+
 
 [![MarkShawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=markshawn2020&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
 
@@ -16,6 +16,7 @@
     <a href="mailto:mark@cs-magic.com">Mail</a>
   </div>
 
+<div>An Indie Hacker Passionate About Building Cool Things 🚀 🚀 🚀</div>
 </div>
 
 ## Culture
