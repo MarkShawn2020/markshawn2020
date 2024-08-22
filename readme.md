@@ -21,7 +21,8 @@
 
 ## Culture
 
-- Mision: To build products that are Yummy, Optimal, Loving, Opportune.
+- Life Philosophy: You Only Live Once (YOLO).
+- Mision: To build products that are Useful, Interesting, Loving, Profitable.
 - Vission: Every Human Being is A Magician.
 - Values: Truth-seeking, Transparency, Creation, Excellence, Agility, Advancement.
 
