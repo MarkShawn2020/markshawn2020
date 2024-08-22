@@ -4,7 +4,14 @@
 
 
 
-[![MarkShawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=markshawn2020&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
+<!-- [![MarkShawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=markshawn2020&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)  -->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markshawn2020&theme=buefy)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=markshawn2020&theme=buefy)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=markshawn2020&theme=buefy)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=markshawn2020&theme=buefy)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=markshawn2020&theme=buefy&utcOffset=8)
+
 
 <div>An Indie Hacker passionate about building cooool things 🚀 🚀 🚀</div>
 
