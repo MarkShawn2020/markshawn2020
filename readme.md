@@ -10,7 +10,13 @@
     <a href="mailto:mark@cs-magic.com">Mail</a>
   </samp>
 
-[![MarkShawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=markshawn2020&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[![MarkShawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=markshawn2020&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
+-->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=markshawn2020&theme=synthwave" alt="MarkShawn's GitHub stats" />
+  </a>
 
 </div>
 
