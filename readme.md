@@ -8,7 +8,7 @@
 
 <div>An Indie Hacker Passionate About Building Cool Things 🚀 🚀 🚀</div>
 
-<div>Currently focusing on building [CS Magic](https://cs-magic.cn)</div>
+<div>Currently focusing on building <a href="https://cs-magic.cn">CS Magic</a></div>
 
   <div>
     <a href="https://cs-magic.cn">Products</a> .
