@@ -5,6 +5,7 @@
 [![MarkShawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=markshawn2020&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
 
   <div style="marigin: 80px;">
+    <a href="https://cs-magic.cn">Home</a> .
     <a href="https://markshawn.com">Blog</a> .
     <a href="https://github.com/markshawn2020">Github</a> .
     <a href="https://x.com/mark__2099">X</a> .
@@ -14,10 +15,6 @@
   </div>
 
 </div>
-
-## Products
-
-- [Codebase](https://github.com/cs-magic/codebase), a full-stack AIGC workspace, powered by modern technologies like [TypeScript](https://www.typescriptlang.org/), [NextJS](https://nextjs.org/), [TRPC](https://trpc.io/), [ShadcnUI](https://ui.shadcn.com/), [ElectornJS](https://www.electronjs.org/) etc.
 
 ## Culture
 
