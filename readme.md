@@ -6,7 +6,7 @@
 
 [![MarkShawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=markshawn2020&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
 
-<div>An Indie Hacker Passionate About Building Cool Things 🚀 🚀 🚀</div>
+<div>An Indie Hacker passionate about building cooool things 🚀 🚀 🚀</div>
 
 <div>Currently focusing on building <a href="https://cs-magic.cn">CS Magic</a></div>
 
