@@ -6,7 +6,9 @@
 
 [![MarkShawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=markshawn2020&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
 
-  <div style="marigin: 80px;">
+<div>An Indie Hacker Passionate About Building Cool Things 🚀 🚀 🚀</div>
+
+  <div>
     <a href="https://cs-magic.cn">Products</a> .
     <a href="https://markshawn.com">Blog</a> .
     <a href="https://github.com/markshawn2020">Github</a> .
@@ -16,7 +18,7 @@
     <a href="mailto:mark@cs-magic.com">Mail</a>
   </div>
 
-<div>An Indie Hacker Passionate About Building Cool Things 🚀 🚀 🚀</div>
+
 </div>
 
 ## Culture
