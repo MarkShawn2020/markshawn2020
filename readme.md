@@ -1,6 +1,9 @@
 # Hi, I'm Mark
 
-<div align="center" style="display: flex; flex-direction: column; gap: 80px;">
+
+## Intro
+
+<div align="center">
 
 <div>An Indie Hacker passionate about building cooool things 🚀 🚀 🚀</div>
 
@@ -17,7 +20,11 @@
 
   <div>...</div>
 
+</div>
 
+## Stat
+
+<div align="center">
 <!-- [![MarkShawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=markshawn2020&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)  -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markshawn2020&theme=buefy)
@@ -25,11 +32,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=markshawn2020&theme=buefy&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=markshawn2020&theme=buefy)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=markshawn2020&theme=buefy)
-
-
-
-
-
 
 </div>
 
