@@ -23,7 +23,6 @@
 <!-- ## Stat -->
 
 <div align="center">
-<!-- [![MarkShawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=markshawn2020&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)  -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markshawn2020&theme=buefy)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=markshawn2020&theme=buefy)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=markshawn2020&theme=buefy&utcOffset=8)
