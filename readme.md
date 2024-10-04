@@ -5,6 +5,8 @@
 
 <div align="center">
 
+<div>Hi, I'm Mark, the founder of CS Magic, and</div>
+
 <div>An Indie Hacker passionate about building cooool things 🚀 🚀 🚀</div>
 
 <div>Currently focusing on building <a href="https://cs-magic.cn">CS Magic</a></div>
