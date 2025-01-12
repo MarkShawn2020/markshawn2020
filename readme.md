@@ -5,9 +5,7 @@
 
 <div align="center">
 
-<div>Hi, I'm Mark, the founder of <a href="https://cs-magic.cn">CS Magic</a>, and</div>
-
-<div>An Indie Hacker passionate about building cooool things 🚀 🚀 🚀</div>
+<div>Hi, I'm Mark, an Indie Hacker passionate about building cooool things 🚀 🚀 🚀</div>
 
   <div>
     <a href="https://markshawn.com">Blog</a> .
