@@ -10,7 +10,7 @@
   <div>
     <a href="https://markshawn.com">Blog</a> .
     <a href="https://github.com/markshawn2020">Github</a> .
-    <a href="https://x.com/mark__2099">X</a> .
+    <a href="https://x.com/mark_neurora">X</a> .
 <!--     <a href="https://web.okjike.com/u/2df8ed5f-d1e4-43c2-9809-ad32058159d3">JK</a> . -->
 <!--     <a href="https://okjk.co/ONe01V">JK (mobile)</a> . -->
     <a href="mailto:mark@cs-magic.com">Mail</a>
